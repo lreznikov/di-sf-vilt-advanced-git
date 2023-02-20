@@ -1,7 +1,7 @@
 The ADVANCED GIT training course is designed for Git users to advance to the next level, use Git with extreme
 confidence, and become masterful repository maintainers as well as contributors. This course is primarily for
 engineers who have working experience with Git, including committing, branching, merging, resolving conflicts
-and collaborating remotely. The course will not cover “How” to do these basic topics, but rather “How these
+and collaborating remotely. The course will not cover “HOW” to do these basic topics, but rather “How these
 things work” so that students can truly understand and master Git.
 
 git commit amend
