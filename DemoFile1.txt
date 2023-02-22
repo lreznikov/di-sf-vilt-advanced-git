@@ -4,4 +4,4 @@ engineers who have working experience with Git, including committing, branching,
 and collaborating remotely. The course will not cover “How” to do these basic topics, but rather “How these
 things work” so that students can truly understand and master Git.
 
-git commit amend
+test rebasing elip
