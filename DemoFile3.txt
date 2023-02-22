@@ -1,4 +1,4 @@
-Copyright 2023 Lev REZNIKOV
+Copyright 2023 LEV REZNIKOV
 
 Licensed under the APACHE LICENSE, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
