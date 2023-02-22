@@ -1,5 +1,5 @@
 The course starts with a review of how Git works and managing the graph. Next, students will learn about
 managing history, mastering recovery, and how to leverage Git to solve problems in a codebase. The course
 concludes with a lesson on tooling with GIT and repository organization.
-git commit amend
+git commit amend test
 test rebasing elip
